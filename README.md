@@ -1,29 +1,5 @@
 # Brandan Pratt
 
-Software Developer focused on data platforms, enterprise systems, and modern cloud infrastructure.
-
-Currently building:
-- Data engineering pipelines
-- Cloud warehouse integrations
-- Workflow orchestration platforms
-- Analytics engineering projects
-- Operational tooling & automation
-
----
-
-## Current Focus
-
-- Python Data Engineering
-- Apache Airflow
-- Snowflake
-- dbt
-- ETL / ELT Pipelines
-- Platform Engineering
-- Cloud Infrastructure
-- Workflow Automation
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -33,8 +9,6 @@ Currently building:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Data & Infrastructure
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/sql%20server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
